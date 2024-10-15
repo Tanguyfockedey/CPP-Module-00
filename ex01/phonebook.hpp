@@ -6,7 +6,7 @@
 /*   By: tafocked <tafocked@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/14 14:14:28 by tafocked          #+#    #+#             */
-/*   Updated: 2024/10/15 19:38:11 by tafocked         ###   ########.fr       */
+/*   Updated: 2024/10/15 20:48:17 by tafocked         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 # define PHONEBOOK_H
 
 #include "contact.hpp"
+#include <iostream>
 #include <iomanip>
 
 typedef std::string str;

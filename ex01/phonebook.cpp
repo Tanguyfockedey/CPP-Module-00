@@ -6,7 +6,7 @@
 /*   By: tafocked <tafocked@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/14 13:39:25 by tafocked          #+#    #+#             */
-/*   Updated: 2024/10/15 20:28:39 by tafocked         ###   ########.fr       */
+/*   Updated: 2024/10/15 21:00:01 by tafocked         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -115,10 +115,8 @@ str	Phonebook::formatted_str(str str) const
 	{
 		str.resize(9);
 		str.append(".");
-		return (str);
 	}
-	else
-		return (str);
+	return (str);
 }
 
 void	Phonebook::detail(int index) const

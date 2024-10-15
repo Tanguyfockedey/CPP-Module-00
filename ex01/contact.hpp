@@ -6,14 +6,13 @@
 /*   By: tafocked <tafocked@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/14 14:01:06 by tafocked          #+#    #+#             */
-/*   Updated: 2024/10/14 16:15:55 by tafocked         ###   ########.fr       */
+/*   Updated: 2024/10/15 20:48:10 by tafocked         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CONTACT_HPP
 # define CONTACT_HPP
 
-#include <iostream>
 #include <string>
 
 typedef std::string str;
